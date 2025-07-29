@@ -1,4 +1,16 @@
 {
-  "name": "WalkWinApp",
-  "displayName": "WalkWinApp"
+  "expo": {
+    "name": "WalkWinApp",
+    "slug": "WalkWinApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "assets/**"
+    ],
+    "icon": "./assets/panda.jpeg",
+    "splash": {
+      "image": "./assets/background.jpeg",
+      "resizeMode": "cover",
+      "backgroundColor": "#FF7F50"
+    }
+  }
 }
